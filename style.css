@@ -1,0 +1,60 @@
+*{
+    background-color: var(--primary-color);
+    
+
+  
+}
+
+:root{
+    --primary-color: #1B1B1B;
+    --secondary-color: #131313;
+    
+    --space-default:  70px;
+}
+header{
+    display: flex;
+    background-color: rgb(0, 253, 42);
+
+}
+.logoSpeedlink{
+
+    background-color: var(--secondary-color) ;
+    position: absolute;
+    width: 181px;
+    height: 80px;
+    left: 82px;
+    top: 43px;
+    border: 20px;
+    border-color: #131313;
+
+}
+.barraPesquisa{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 37.75rem;
+    height: 3.125rem;
+    left: 27.063rem;
+    top: 3.75rem;
+
+    background: #131313;
+    border-radius: 2.125rem;
+
+}
+.iconesTopo{
+    place-items: 30rem;
+.iconeUsuario{
+    
+p
+}
+.iconeCoracao{
+    
+}
+.iconeCarinho{
+   
+.pequenosRetangulos{
+    display: grid;
+
+}
+
